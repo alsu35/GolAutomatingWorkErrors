@@ -22,6 +22,11 @@ C:\Users\Student\.nuget\packages\avalonia\11.3.0\ref\net8.0\Avalonia.Vulkan.dll
 C:\Users\Student\.nuget\packages\avalonia.win32\11.3.0\lib\net8.0\Avalonia.Win32.Automation.dll
 C:\Users\Student\.nuget\packages\avalonia.win32\11.3.0\lib\net8.0\Avalonia.Win32.dll
 C:\Users\Student\.nuget\packages\avalonia.x11\11.3.0\lib\net8.0\Avalonia.X11.dll
+C:\Users\Student\.nuget\packages\closedxml\0.105.0\lib\netstandard2.1\ClosedXML.dll
+C:\Users\Student\.nuget\packages\closedxml.parser\2.0.0\lib\netstandard2.1\ClosedXML.Parser.dll
+C:\Users\Student\.nuget\packages\documentformat.openxml\3.1.1\lib\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Student\.nuget\packages\documentformat.openxml.framework\3.1.1\lib\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Student\.nuget\packages\excelnumberformat\1.1.0\lib\netstandard2.0\ExcelNumberFormat.dll
 C:\Users\Student\.nuget\packages\harfbuzzsharp\7.3.0.3\lib\net6.0\HarfBuzzSharp.dll
 C:\Users\Student\.nuget\packages\microcom.runtime\0.11.0\lib\net5.0\MicroCom.Runtime.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\Microsoft.CSharp.dll
@@ -31,7 +36,13 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\Micros
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\Microsoft.Win32.Registry.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\mscorlib.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\netstandard.dll
+C:\Users\Student\.nuget\packages\oxyplot.avalonia\2.1.0\lib\netstandard2.0\OxyPlot.Avalonia.dll
+C:\Users\Student\.nuget\packages\oxyplot.core\2.2.0\lib\net8.0\OxyPlot.dll
+C:\Users\Student\.nuget\packages\oxyplot.skiasharp\2.2.0\lib\net8.0\OxyPlot.SkiaSharp.dll
+C:\Users\Student\.nuget\packages\rbush.signed\4.0.0\lib\net8.0\RBush.dll
+C:\Users\Student\.nuget\packages\sixlabors.fonts\1.0.0\lib\netcoreapp3.1\SixLabors.Fonts.dll
 C:\Users\Student\.nuget\packages\skiasharp\2.88.9\lib\net6.0\SkiaSharp.dll
+C:\Users\Student\.nuget\packages\skiasharp.harfbuzz\2.88.8\lib\net6.0\SkiaSharp.HarfBuzz.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.AppContext.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.Buffers.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.Collections.Concurrent.dll
@@ -82,6 +93,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.IO.FileSystem.Watcher.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.IO.IsolatedStorage.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.IO.MemoryMappedFiles.dll
+C:\Users\Student\.nuget\packages\system.io.packaging\8.0.1\lib\net8.0\System.IO.Packaging.dll
 C:\Users\Student\.nuget\packages\system.io.pipelines\8.0.0\lib\net8.0\System.IO.Pipelines.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.IO.Pipes.AccessControl.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.IO.Pipes.dll
@@ -190,3 +202,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\System.Xml.XPath.XDocument.dll
 C:\Users\Student\.nuget\packages\tmds.dbus.protocol\0.21.2\lib\net8.0\Tmds.DBus.Protocol.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.16\ref\net8.0\WindowsBase.dll
+C:\Users\Student\.nuget\packages\xceed.document.net\5.0.25228.6154\lib\net5.0\Xceed.Document.NET.dll
+C:\Users\Student\.nuget\packages\xceed.drawing.net\1.0.25228.6154\lib\net5.0\Xceed.Drawing.NET.dll
+C:\Users\Student\.nuget\packages\xceed.pdf\5.0.25228.6154\lib\net5.0\Xceed.PDF.NET.dll
+C:\Users\Student\.nuget\packages\xceed.words.net\5.0.25228.6154\lib\net5.0\Xceed.Words.NET.dll

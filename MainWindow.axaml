@@ -2,11 +2,36 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        Width="600" Height="200"
+        Width="600" Height="300"
         x:Class="AutomatingWorkErrors.MainWindow"
-        Title="AutomatingWorkErrors">
-    <StackPanel Orientation="Horizontal" Spacing="50">
-        <Button Name="OneBtn" Content="Выгрузка выданных предупреждений" Background="#008B8B" Foreground="White" CornerRadius="10" VerticalAlignment="Center" Margin="10" />
-        <Button Name="TwoBtn" Content="Выгрузка графика ГФМ" Foreground="#008B8B" Background="White" CornerRadius="10" VerticalAlignment="Center" Margin="10" BorderThickness="1" BorderBrush="#008B8B"/>
+        Title="Автоматизация нарушений">
+    <StackPanel Orientation="Vertical" Margin="20">
+        <StackPanel Orientation="Horizontal" Spacing="30">
+            <Button Name="OneBtn" Content="Выгрузка выданных предупреждений"
+                    Background="#008B8B" Foreground="White" CornerRadius="10"
+                    VerticalAlignment="Center" Margin="10" />
+            <Button Name="TwoBtn" Content="Выгрузка графика ГФМ"
+                    Foreground="#008B8B" Background="White" CornerRadius="10"
+                    VerticalAlignment="Center" Margin="10"
+                    BorderThickness="1" BorderBrush="#008B8B"/>
+        </StackPanel>
+        <TextBlock Name="StatusText"
+           Text="Ожидание выбора файлов..."
+           HorizontalAlignment="Center"
+           Margin="10"
+           Foreground="DarkSlateGray"
+           FontWeight="Bold"/>
+
+        <TextBlock Text="Диапазон листов в реестре предупреждений" Margin="10"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Spacing="10">
+            <TextBox Name="StartSheetBox" Width="250" Watermark="Начало (например, 04.06.2025)" CornerRadius="10"/>
+            <TextBox Name="EndSheetBox" Width="250" Watermark="Конец (например, 10.06.2025)" CornerRadius="10"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="TotalBtn" Content="Итоговый график" Foreground="White" Background="#226161"
+                    CornerRadius="10" Margin="20" Width="200" Height="40" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </StackPanel>
+
     </StackPanel>
 </Window>
